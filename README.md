@@ -33,6 +33,6 @@
   <a href = "mailto:contato@creativeassessoria.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igomarcos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/igomarcos/igomarcos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/igomarcos/igomarcos/commit/486a1549acbe346e4f2065a3f52dce62669ae7fd)
  
 </div>
