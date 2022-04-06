@@ -1,8 +1,8 @@
 ### Olá, me chamo Igo Marcos!
 
 
-- 🔭 atualmente trabalho com design gráfico
-- 🌱 estou aprendendo azure, C# e python
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱  Desenvolvendo algumas habilidades com javascript e bootstrap
 - 🎸 sou músico
 - 🖥 também sou design gráfico
 - 📫  email para contato: igomarcos@gmail.com
