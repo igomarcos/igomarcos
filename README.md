@@ -13,7 +13,7 @@
 - 🖥 também sou design gráfico
 - 📽 Sou fã de filmes e séries
 <br/>
-<h2>series favoritas</h2>
+<h2>Series favoritas</h2>
  <div align="center">
   <img height="145em" src="http://1.bp.blogspot.com/-uKGaRSzET18/U_U6ZSTqmYI/AAAAAAAAK7Y/AJVgbj_r_Y8/s1600/friends%2B2.gif"/>
   <img height="145em" src="https://user-images.githubusercontent.com/78884474/196557371-123905c1-1f72-4eaa-86fd-8a84b8dbd1af.gif"/>
@@ -21,7 +21,7 @@
  
 </div>
 <br/>
-<h2 align="center">time do coração❤</h2>
+<h2 align="center">Time do coração❤</h2>
  <div align="center">
  <img height="145em" border=" 5px solid white" src="https://user-images.githubusercontent.com/78884474/196558265-7e48b1ab-e790-456c-a6aa-c0ebd72700f7.png"/>
 </div>
