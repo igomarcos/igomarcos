@@ -12,6 +12,7 @@
 - 🎸 sou músico
 - 🖥 também sou design gráfico
 - 📽 Sou fã de filmes e séries
+- 🏈 🏀 Sou fã de NFL e NBA
 <br/>
 <h2>Series favoritas</h2>
  <div align="center">
