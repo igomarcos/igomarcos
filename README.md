@@ -23,8 +23,10 @@
 <br/>
 <h2 align="center">Time do coração❤</h2>
  <div align="center">
- <img height="145em" border=" 5px solid white" src="https://user-images.githubusercontent.com/78884474/196558265-7e48b1ab-e790-456c-a6aa-c0ebd72700f7.png"/>
+ <img height="145em" margin="300px"  src="https://user-images.githubusercontent.com/78884474/196558265-7e48b1ab-e790-456c-a6aa-c0ebd72700f7.png"/>
+ <img height="145em" border=" 5px solid white" src="https://user-images.githubusercontent.com/78884474/196718326-3f84ef79-eda1-46c1-b1fb-45f3ed253dca.png"/>
 </div>
+
 <br/>
 
  <div>
