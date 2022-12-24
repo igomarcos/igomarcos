@@ -14,21 +14,6 @@
 - 📽 Sou fã de filmes e séries
 - 🏈 🏀 Sou fã de NFL e NBA
 <br/>
-<h2>Series favoritas</h2>
- <div align="center">
-  <img height="145em" src="http://1.bp.blogspot.com/-uKGaRSzET18/U_U6ZSTqmYI/AAAAAAAAK7Y/AJVgbj_r_Y8/s1600/friends%2B2.gif"/>
-  <img height="145em" src="https://user-images.githubusercontent.com/78884474/196557371-123905c1-1f72-4eaa-86fd-8a84b8dbd1af.gif"/>
-  <img height="145em" src="https://media.tenor.com/Pn6uFYPUwLcAAAAC/team-scorpion-toby.gif"/>
- 
-</div>
-<br/>
-<h2 align="center">Time do coração❤</h2>
- <div align="center">
- <img height="145em" margin="300px"  src="https://user-images.githubusercontent.com/78884474/196558265-7e48b1ab-e790-456c-a6aa-c0ebd72700f7.png"/>
- <img height="145em" border=" 5px solid white" src="https://user-images.githubusercontent.com/78884474/196718326-3f84ef79-eda1-46c1-b1fb-45f3ed253dca.png"/>
-</div>
-
-<br/>
 
  <div>
   <a href="https://github.com/igomarcos">
