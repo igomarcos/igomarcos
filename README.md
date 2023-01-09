@@ -1,10 +1,4 @@
 
-
-<div align="center" width="400px">
- <img src="https://user-images.githubusercontent.com/78884474/196554129-e2e1aa20-8910-4ca2-b088-9196ccfd52be.gif "/>
- 
-</div>
-
 <h1 align="center">Olá, me chamo Igo Marcos!</h1>
 
 
@@ -16,8 +10,8 @@
 <br/>
 
 <h1 align="center">Certificações</h1>
-<img height="10em" src="https://github-readme-stats.vercel.app/api?username=igomarcos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/78884474/211325111-8ec23b84-1865-4383-a339-17583fda97d2.png)
+![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/78884474/211325414-2982f078-4fb1-4243-82a5-5b54dc34eead.png)
+
 
  
  <div>
