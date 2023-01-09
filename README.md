@@ -14,9 +14,12 @@
 - 📽 Sou fã de filmes e séries
 - 🏈 🏀 Sou fã de NFL e NBA
 <br/>
-#
+
 <h1 align="center">Certificações</h1>
-#
+<img height="10em" src="https://github-readme-stats.vercel.app/api?username=igomarcos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/78884474/211325111-8ec23b84-1865-4383-a339-17583fda97d2.png)
+
+ 
  <div>
   <a href="https://github.com/igomarcos">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=igomarcos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
