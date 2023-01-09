@@ -10,11 +10,9 @@
 <br/>
 
 <h1 align="center">Certificações</h1>
-  <img align="right" alt="az900" src="[https://drive.google.com/file/d/11RWeeeH_XhbRLMzy0Qy2TjVRK7Aq6nQ0/view?usp=share_link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fmicrosoft-certification%2Fbadge%2Fmicrosoft-certified-azure-fundamentals&psig=AOvVaw3XVgDSly_W9rjcL5NYXCtk&ust=1673360690807000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLi_9r_YuvwCFQAAAAAdAAAAABAE)">
-
-
- 
- <div>
+<div>
+   <div>![image](https://user-images.githubusercontent.com/78884474/211330817-1dd7ea52-f70c-4f9c-9b49-9b52a6553ed6.png)
+</div>
   <a href="https://github.com/igomarcos">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=igomarcos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igomarcos&layout=compact&langs_count=7&theme=dark"/>
