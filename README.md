@@ -12,6 +12,7 @@
 <h1 align="center">Certificações</h1>
 <div>
    <div>![image](https://user-images.githubusercontent.com/78884474/211330817-1dd7ea52-f70c-4f9c-9b49-9b52a6553ed6.png)
+     <img src="https://user-images.githubusercontent.com/78884474/211330817-1dd7ea52-f70c-4f9c-9b49-9b52a6553ed6.png"/>
 </div>
   <a href="https://github.com/igomarcos">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=igomarcos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
