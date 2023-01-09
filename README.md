@@ -10,7 +10,7 @@
 <br/>
 
 <h1 align="center">Certificações</h1>
-![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/78884474/211325414-2982f078-4fb1-4243-82a5-5b54dc34eead.png)
+  <img align="right" alt="Rafa-yoda" src="https://drive.google.com/file/d/11RWeeeH_XhbRLMzy0Qy2TjVRK7Aq6nQ0/view?usp=share_link">
 
 
  
@@ -37,7 +37,7 @@
   <a href="https://instagram.com/igo.marcos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://instagram.com/creative.agenciaofl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato@creativeassessoria.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:igo.dev2023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igomarcos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  </div>
