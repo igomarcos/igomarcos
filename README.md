@@ -13,8 +13,13 @@
 <br/>
 
 <h1 align="center">Certificações</h1>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/78884474/211341121-bc9d92d1-3338-411f-a396-a5eee4a48dc8.png" width="100px" />
+
+<div align="center" >
+ <div style="display: flex;">
+  <img src="https://user-images.githubusercontent.com/78884474/211341121-bc9d92d1-3338-411f-a396-a5eee4a48dc8.png" width="100px" />
+  <img src="https://user-images.githubusercontent.com/78884474/225024476-013bf926-d35f-44ee-8204-f9a98c20968a.png" width="100px" />
+  <img src="https://user-images.githubusercontent.com/78884474/225024481-fe600305-2e7c-40a5-904f-99610fba6ff6.png" width="100px" />
+ </div>
 </div>
 
 <h1></h1>
